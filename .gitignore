@@ -1,0 +1,16 @@
+# PHP specific
+vendor/
+*.log
+*.cache
+
+# Node specific
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# General development files
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
